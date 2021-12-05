@@ -1,3 +1,8 @@
+# About Me
+## I'm Nick a 17 year old Cyber Security Student.
+
+<a href="https://discord.gg/wsp">![Discord](./discord-icon.svg)</a>
+
 # Hi, Welcome to my Perl doc :)
 
 ### By assuming you know the basics, In this repo I will be covering the main stuff in perl (like arrays, hashs, variables etc).
