@@ -1,11 +1,6 @@
-# About Me
-## I'm Nick a 17 year old Cyber Security Student.
-
-<a href="https://discord.gg/wsp">![Discord](./discord-icon.svg)</a>
-
 # Hi, Welcome to my Perl doc :)
 
-### By assuming you know the basics, In this repo I will be covering the main stuff in perl (like arrays, hashs, variables etc).
+### In this repo I will be covering the main stuff in perl (like arrays, hashs, variables etc) and ofc other stuff also!
 
 # Variables!
 
@@ -36,5 +31,13 @@ __Usage__:
 
 __Usage__:
 ```perl
-%data = ("John" 20, "Lisa", 21);
+%data = ("John Paul", 20, "Lisa", 21);
+```
+**OR**, to make it look more clear:
+```perl
+%data = ("John Paul" => 20, "Lisa"=> 21);
+```
+Theres one more way I would like to show you but know that you can not use spaces if you're using hashes like this:
+```perl
+%data = (-JohnPaul => 20, -Lisa => 21);
 ```
